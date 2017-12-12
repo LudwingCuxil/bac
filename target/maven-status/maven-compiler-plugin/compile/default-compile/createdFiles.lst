@@ -1,0 +1,6 @@
+com/mycompany/controller/SimpleController.class
+com/mycompany/config/Application.class
+com/mycompany/persistence/repo/AuthorRepository.class
+com/mycompany/persistence/repo/BookRepository.class
+com/mycompany/persistence/model/Book.class
+com/mycompany/persistence/model/Author.class
